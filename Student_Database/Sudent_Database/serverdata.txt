@@ -1,0 +1,8 @@
+7
+10000;nanna;johansen;14.11.1951;9806 humlevej;28173;aarhus n;midtjylland
+10001;julia;caron;29.05.1957;5474 rue pasteur;48377;lille;ille-et-vilaine
+10002;hannah;green;28.02.1997;5358 south eastern highway;27211;new plymouth;wellington
+10003;isaac;walker;15.07.2011;8981 karangahape road;62421;lower hutt;manawatu-wanganui
+10004;eli;mcdonalid;14.04.1972;1012 rookery road;37269;killarney;dublin city
+10005;lucy;woods;09.12.1957;5220 bruce st;528;mackay;south australia
+10006;maya;li;05.07.1954;5636 frederick ave;28599;springfield;saskatchewan
